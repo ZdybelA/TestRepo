@@ -1,5 +1,5 @@
 
-# Algorithms
+# Awesome Algorithms
 
 ## Autor : Aleksander Zdybel
 
